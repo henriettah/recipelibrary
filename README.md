@@ -1,2 +1,2 @@
 # recipelibrary
-a library for fantastic recipes
+a library of delicious recipes
